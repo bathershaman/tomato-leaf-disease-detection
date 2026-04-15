@@ -1,0 +1,2 @@
+hybrid_model.save("hybrid_tomato_disease_model.keras")
+print("✅ Model file created successfully")
